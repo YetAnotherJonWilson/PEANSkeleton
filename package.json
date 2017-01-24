@@ -1,0 +1,23 @@
+{
+  "name": "pean_skeleton",
+  "version": "1.0.0",
+  "description": "pean skeleton",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwilsonMSP/PEANSkeleton.git"
+  },
+  "author": "Jon Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonwilsonMSP/PEANSkeleton/issues"
+  },
+  "homepage": "https://github.com/jonwilsonMSP/PEANSkeleton#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "express": "^4.14.0"
+  }
+}
