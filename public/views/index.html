@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="myApp">
 <head>
     <title>PEAN Skeleton</title>
+
+    <script src="vendors/angular.min.js"></script>
+    <script src="client/App.js"></script>
+
+    <base href="/" />
 </head>
-<body>
-<h2>Hello Planet</h2>
+<body ng-controller="MainController as main">
+<h2>{{main.message}}</h2>
 
 </body>
 
