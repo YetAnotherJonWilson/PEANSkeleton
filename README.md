@@ -2,7 +2,8 @@
 
 #### PEAN Stack Skeleton (MEAN with PostgreSQL instead of MongoDB)
 
-<strong><u>After downloading</u></strong>
+<strong>After downloading</strong>
+_________
 
 1. Use "npm install" to install dependencies.
 2. Download and install [PostgreSQL](https://www.postgresql.org/ "PostgreSQL"). A good Mac client for working with PostgreSQL is [Postico](https://eggerapps.at/postico/ "Postico"),
