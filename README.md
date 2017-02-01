@@ -1,7 +1,7 @@
 PEANSkeleton
-=========
-#### PEAN Stack Skeleton (MEAN with PostgreSQL instead of MongoDB)
 _________
+#### PEAN Stack Skeleton (MEAN with PostgreSQL instead of MongoDB)
+=========
 
 <strong>After downloading</strong>
 
