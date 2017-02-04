@@ -1,4 +1,4 @@
-#PEANSkeleton
+#PEAN Skeleton
 
 #### PEAN Stack Skeleton (MEAN with PostgreSQL instead of MongoDB)
 =========
